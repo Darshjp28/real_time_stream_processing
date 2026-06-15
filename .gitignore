@@ -1,0 +1,19 @@
+# Spark runtime
+data/input/
+data/output/
+data/checkpoint/
+derby.log
+metastore_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Large files (too big for GitHub)
+patients_data_with_alerts.xlsx
+
+# IDE
+.vscode/
+.idea/
